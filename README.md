@@ -36,6 +36,7 @@ yarn test
 
 ## 🛠️ Built with:
 
+* [https://pt-br.reactjs.org/docs/getting-started.html) - React
 * [https://www.typescriptlang.org/docs/) - Typescript
 * [https://styled-components.com/docs) - Styled-components
 * [https://jestjs.io/pt-BR/docs/getting-started) - Jest
